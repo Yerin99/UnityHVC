@@ -1,0 +1,44 @@
+# Unity 관련 파일 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VSCode 관련 파일 무시
+.vscode/
+*.code-workspace
+
+# Rider 관련 파일 무시
+.idea/
+*.sln.iml
+*.sln.DotSettings
+
+# Unity Collaborate 관련
+.Collab/
+
+# .env 파일 (API 키 등 민감한 정보)
+.env
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash Reports
+sysinfo.txt
+
+# OSX-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
